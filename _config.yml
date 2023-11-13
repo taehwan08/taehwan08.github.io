@@ -52,14 +52,12 @@ github_username:  taehwan08
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
-
+  광고홍보학과 전공 출신으로 마케팅, 제조 기획, PM 등으로 활동해온 **제네럴리스트**입니다. 건강기능식품 판매업과 소개팅 앱 두 업종에 다닌 경험이 있습니다.<br>
+  건강기능식품 판매업 회사에서 기존 재고조사 방법 개선 및 스프레드시트를 통한 재고조사 시트를 제작하여 <mark>소요시간을 2일에서 4시간으로 단축</mark> 했습니다.<br>
+  또한 소개팅 앱의 광고성과에 대한 공유가 필요하다 생각하여 자발적으로 광고성과 보고시트를 제작. 광고성과의 데이터를 수집하여 보고하던 시스템을 <mark>1시간에서 10분으로 단축</mark> 했습니다.
+  <br>
+  해당 경험들이 개발에 대한 관심을 가지게 해주었고, 퇴사 후 국비 교육과정에서 Spring Framework 및 MVC 패턴을 통한 웹 개발 프로젝트 경험을 쌓아 기술적 역량을 향상했습니다.<br>
+  현재는 개인 사이드 프로젝트를 진행중이며, 프로젝트는 <a href="https://taehwan08.tistory.com/category/%EA%B0%9C%EB%B0%9C%20%EA%B3%B5%EB%B6%80/%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">블로그</a> 에서 보실 수 있습니다.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
